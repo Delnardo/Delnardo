@@ -1,4 +1,13 @@
-### Hi there 👋
+## SOUT(" Hi 👋 I´m Delnardo ")
+### | QA/QC Engineer |
+![](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif "QA")
+   
+   
+- 🔭 I’m currently working on [Corebiz LATAM](https://www.corebiz.ag/es/)
+- 🌱 I’m currently learning more about automated testing using Java and Python
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alfredo-d-7b911a251)
+
+
 
 <!--
 **Delnardo/Delnardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
