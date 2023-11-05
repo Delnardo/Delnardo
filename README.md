@@ -1,11 +1,11 @@
 ## SOUT(" Hi " + 👋 + " I´m Delnardo ")
 ### | QA/QC Engineer |
 
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" alt="H.W." width="400">
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" alt="H.W." width="200">
 
 ---
-- 🔭 I’m currently working on [Corebiz LATAM](https://www.corebiz.ag/es/)
-- 🌱 I’m currently learning more about automated testing using Java and Python
+- 🔭 I’m currently working on [Practia Global](https://www.practia.global/)
+- 🌱 I’m currently learning more about automated testing using Java and JS in [Globant University](https://university.globant.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alfredo-d-7b911a251)
 ---
 ---
